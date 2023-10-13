@@ -1,6 +1,6 @@
 # mybook
 
-A new Flutter project.
+A new Flutter UI project.
 
 ## Getting Started
 
